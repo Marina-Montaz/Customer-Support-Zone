@@ -1,6 +1,6 @@
-<!-- 
-## Q&A
 
+## Q&A
+<!-- 
 1. What is JSX?
 JSX stands for JavaScript XML. It allows us to write HTML-like code directly in JavaScript files. It is used because it makes UI code easier to write compared to raw `React.createElement`.
 
