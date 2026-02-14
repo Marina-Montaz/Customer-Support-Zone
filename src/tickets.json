@@ -1,0 +1,110 @@
+[
+  {
+    "id": "TKT-101",
+    "title": "Login Authentication Error",
+    "description": "Users reporting 401 unauthorized errors despite correct credentials on the mobile app.",
+    "customer": "TechCorp Solutions",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2024-05-10"
+  },
+  {
+    "id": "TKT-102",
+    "title": "Payment Gateway Timeout",
+    "description": "Stripe integration is timing out during the checkout process for international cards.",
+    "customer": "Global Retail Inc.",
+    "priority": "Critical",
+    "status": "Open",
+    "createdAt": "2024-05-11"
+  },
+  {
+    "id": "TKT-103",
+    "title": "Update Footer Copyright",
+    "description": "Need to update the footer year from 2023 to 2024 across all landing pages.",
+    "customer": "Internal",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2024-05-12"
+  },
+  {
+    "id": "TKT-104",
+    "title": "Slow Dashboard Loading",
+    "description": "The main analytics dashboard takes over 5 seconds to fetch data from the API.",
+    "customer": "DataViz Group",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2024-05-12"
+  },
+  {
+    "id": "TKT-105",
+    "title": "Broken Password Reset Link",
+    "description": "The 'Forgot Password' email link redirects users to a 404 page.",
+    "customer": "Individual User",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2024-05-13"
+  },
+  {
+    "id": "TKT-106",
+    "title": "Invoice Export as PDF",
+    "description": "Feature request: Allow customers to download monthly invoices in PDF format.",
+    "customer": "FinTrack Ltd.",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2024-05-13"
+  },
+  {
+    "id": "TKT-107",
+    "title": "Dark Mode Toggle Bug",
+    "description": "The UI stays in light mode on Safari browsers even when dark mode is selected.",
+    "customer": "Creative Agency",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2024-05-14"
+  },
+  {
+    "id": "TKT-108",
+    "title": "Database Connection Leak",
+    "description": "Server logs showing multiple unclosed connections causing memory spikes.",
+    "customer": "System Admin",
+    "priority": "Critical",
+    "status": "Open",
+    "createdAt": "2024-05-14"
+  },
+  {
+    "id": "TKT-109",
+    "title": "Search Filter Not Working",
+    "description": "Filtering by date range returns zero results regardless of the data present.",
+    "customer": "Logistics Co.",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2024-05-15"
+  },
+  {
+    "id": "TKT-110",
+    "title": "Mobile Header Overlapping",
+    "description": "On iPhone 13, the navigation bar overlaps with the banner content.",
+    "customer": "Design Hub",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2024-05-15"
+  },
+  {
+    "id": "TKT-111",
+    "title": "Email Notification Delay",
+    "description": "Welcome emails are arriving 30 minutes late after user registration.",
+    "customer": "Startup X",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2024-05-16"
+  },
+  {
+    "id": "TKT-112",
+    "title": "Image Upload Limit",
+    "description": "Users cannot upload profile pictures larger than 500KB. Request to increase to 2MB.",
+    "customer": "Social Media App",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2024-05-16"
+  }
+]
