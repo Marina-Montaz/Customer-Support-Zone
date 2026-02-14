@@ -32,7 +32,7 @@ const App = () => {
   return (
     <div className="min-h-screen bg-white font-sans text-slate-900">
       <ToastContainer />
-      {/* Navbar */}
+      {/*Added Navbar */}
       <nav className="flex justify-between items-center px-12 py-5 border-b">
         <h1 className="text-xl font-bold">CS — Ticket System</h1>
         <div className="flex items-center gap-8 text-gray-600 font-medium">
@@ -42,7 +42,9 @@ const App = () => {
       </nav>
 
       <main className="max-w-7xl mx-auto p-12">
-        {/* Banner */}
+        
+        {/*Added Banner */}
+        
         <div className="grid md:grid-cols-2 gap-8 mb-16">
           <div className="relative rounded-3xl p-10 text-white text-center overflow-hidden bg-gradient-to-r from-indigo-500 to-purple-500">
             <img src={vector1} className="absolute inset-0 opacity-20 object-cover w-full h-full" />
@@ -57,7 +59,7 @@ const App = () => {
         </div>
 
         <div className="grid lg:grid-cols-3 gap-12">
-          {/* Left: Tickets */}
+          
           <div className="lg:col-span-2">
             <h2 className="text-2xl font-bold mb-8">Customer Tickets</h2>
             <div className="grid md:grid-cols-2 gap-6">
@@ -77,7 +79,7 @@ const App = () => {
             </div>
           </div>
 
-          {/* Right: Status */}
+          
           <aside>
             <h2 className="text-2xl font-bold mb-4">Task Status</h2>
             <p className="text-gray-400 text-sm mb-6">Select a ticket to add to Task Status</p>
